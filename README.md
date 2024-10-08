@@ -4,8 +4,12 @@
 <p align="Justify">
 Soy ingeniero en mecatrónica, por el Tecnológico de Monterrey, con una especialización en sistemas ciber-físicos. Entusiasta en el trabajo en equipo desarrollando proyectos mecatrónicos que contribuyan al desarrollo de la sociedad. Soy muy apasionado en el área de la programación (Matlab, C++, Python), el diseño asistido por computadora CAD y sobre todo de trabajar en el diseño electrónico, especialmente en el área de semiconductores. Creo fielmente que la industria de semiconductores ha sido la responsable del mayor desarrollo tecnológico que hemos experimentado y me gustaría contribuir en esta grandiosa área de conocimiento. Persona responsable, con gran interés en el autoaprendizaje, comprometida, creativa y en búsqueda constante de nuevos retos profesionales y académicos.
 </p>
-<h2 
-<
+<h2>Proyectos</h2>
+<p align="Justify">
+  Con este proyecto se planea implementar una red de sensores que permita cubrir una ciudad completa, con el objetivo de generar una base de datos en tiempo, de los principales valores meteorológicos que determinan la calidad del aire, tales como: Partículas suspendidas en el aire mayores a 2.5 um, humedad, temperatura, presión atmosferica. 
+
+</p>
+
 <!--
 **JesusC26/JesusC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
