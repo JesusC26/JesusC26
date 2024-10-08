@@ -5,7 +5,9 @@
 Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con una especialización en sistemas ciber-físicos. Entusiasta en el trabajo en equipo desarrollando proyectos mecatrónicos que contribuyan al desarrollo de la sociedad. Soy muy apasionado en el área de la programación (Matlab, C++, Python), el diseño asistido por computadora CAD y sobre todo de trabajar en el diseño electrónico, especialmente en el área de semiconductores. Creo fielmente que la industria de semiconductores ha sido la responsable del mayor desarrollo tecnológico que hemos experimentado y me gustaría contribuir en esta grandiosa área de conocimiento. Persona responsable, con gran interés en el autoaprendizaje, comprometida, creativa y en búsqueda constante de nuevos retos profesionales y académicos.
 </p>
 <h3>Conecta conmigo en Linkedin</h3>
-[![Linkedin](./Images/Linkedin_Icon.png)](https://www.linkedin.com/in/jesuscervantes26/)
+<a href="https://www.linkedin.com/in/jesuscervantes26/" target="_blank">
+  <img src="./Images/Linkedin_Icon.png" alt="LinkedIn" style="width: 150px;"/>
+</a>
 <h2>Proyectos</h2>
 <h3>Red sensores meteorológicos</h3>
 <p align="Justify">
