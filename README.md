@@ -1,7 +1,8 @@
 <p align="Center">
-### Hi👋, My name is Jesús Cervantes 
-A Mechatronics Engineer, specializing in Cyber-Physics Systems
+### Hi👋, My name is Jesús Cervantes
 </p>
+A Mechatronics Engineer, specializing in Cyber-Physics Systems
+
 <!--
 **JesusC26/JesusC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
