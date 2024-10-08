@@ -6,7 +6,7 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
 </p>
 <h3>Conecta conmigo en Linkedin</h3>
 <a href="https://www.linkedin.com/in/jesuscervantes26/" target="_blank">
-  <img src="./Images/Linkedin_Icon.png" alt="LinkedIn" style="width: 150px;"/>
+  <img src="./Images/Linkedin_Icon.png" alt="LinkedIn" style="width: 50px;"/>
 </a>
 <h2>Proyectos</h2>
 <h3>Red sensores meteorológicos</h3>
