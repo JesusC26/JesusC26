@@ -2,8 +2,7 @@
   Hi👋, My name is Jesús Cervantes
 </h1>
 <p align="Center">
-A Mechatronics Engineer, specializing in Cyber-Physics Systems
-</p>
+Soy ingeniero en mecatrónica, por el Tecnológico de Monterrey, con una especialización en sistemas cyber-físicos. Me gusta mucho trabajar en equipo desarrollando poryectos mecatrónicos de la escuela, así como proyectos extracurriculares que he trabajado a lo largo de mi estancia en la universidad.  Soy muy apasionado en el area de la programación (Matlab, C++, Python), el diseño asistido por computadora CAD y sobre todo de trabajar en el diseño electronico, especialmente en semiconductores. Creo fielmente que la industria de semiconductores, ha sido la responsable del mayor desarrollo tecnológico que hemos experimentado. 
 <!--
 **JesusC26/JesusC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
