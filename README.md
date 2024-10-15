@@ -8,6 +8,18 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
 <a href="https://www.linkedin.com/in/jesuscervantes26/" target="_blank">
   <img src="./Images/Linkedin_Icon.png" alt="LinkedIn" style="width: 50px;"/>
 </a>
+<h3>Languages and tools</h3>
+<div class="row">
+  <div class="column">
+    <img src="./Images/python.png" alt="Python" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="./Images/C++.png" alt="C++" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="./Images/Linux.png" alt="Linux" style="width:100%">
+  </div>
+</div>
 <h2>Proyectos</h2>
 <h3>Red de sensores meteorológicos</h3>
 <p align="Justify">
