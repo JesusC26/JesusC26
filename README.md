@@ -11,7 +11,7 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
 <h2>Proyectos</h2>
 <h3>Red de sensores meteorológicos</h3>
 <p align="Justify">
-  La contaminación ambiental en la zona metropolitana de Guadalajara ha repercutido en el aumento de enfermedades respiratorias en la población. Para la mitigación de este tipo de problemas, es indispensable realizar un monitoreo constante de concentraciones de partículas con un diametro igual o menor a 2.5 μm. En este proyecto se desarrollo el diseño e implementación de 3 distintos dispositivos que permitieran medir ciertas condiciones meteorologicas, con el objetivo de conocer la calidad del aire en cierta area de una metropolis.
+  La contaminación ambiental en la zona metropolitana de Guadalajara ha repercutido en el aumento de enfermedades respiratorias en la población. Para la mitigación de este tipo de problemas, es indispensable realizar un monitoreo constante de concentraciones de partículas con un diámetro igual o menor a 2.5 μm. En este proyecto se desarrolló el diseño e implementación de 3 distintos dispositivos que permitieran medir ciertas condiciones meteorológicas, con el objetivo de conocer la calidad del aire en cierta área de una metrópolis.
 </p>
 <p>
   Descripción de cada uno de los dispositivos.
