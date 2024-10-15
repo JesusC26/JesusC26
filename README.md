@@ -1,3 +1,5 @@
+<html>
+<head>
 <style>
 * {
   box-sizing: border-box;
@@ -16,7 +18,8 @@
   display: table;
 }
 </style>
-
+</head>
+<body>
 <h1 align="center">
   Hola👋, Mi nombre es Jesús Cervantes.
 </h1>
@@ -59,7 +62,8 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
 <p align="Justify">
   E
 </p>
-
+</html>
+</body>
 <!--
 **JesusC26/JesusC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
