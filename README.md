@@ -15,7 +15,7 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
   <img src="./Images/C++.png" alt="C++" style="width: 40px;">
   <img src="./Images/Linux.png" alt="Linux" style="width: 40px;">
   <img src="./Images/Matlab.png" alt="Matlab" style="width: 40px;">
-  <img src="./Images/Eagle.png" alt="Eagle" style="width: 40px;">
+  <img src="./Images/Eagle.jpg" alt="Eagle" style="width: 40px;">
   <img src="./Images/Proteus.png" alt="Proteus" style="width: 40px;">
   <img src="./Images/Multisim.png" alt="Multisim" style="width: 40px;">
 </div>
