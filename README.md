@@ -1,25 +1,4 @@
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
 <h1 align="center">
   Hola👋, Mi nombre es Jesús Cervantes.
 </h1>
@@ -31,17 +10,12 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
   <img src="./Images/Linkedin_Icon.png" alt="LinkedIn" style="width: 50px;"/>
 </a>
 <h3>Languages and tools</h3>
-<div class="row">
-  <div class="column">
-    <img src="./Images/python.png" alt="Python" style="width: 40px;">
-  </div>
-  <div class="column">
-    <img src="./Images/C++.png" alt="C++" style="width: 40px;">
-  </div>
-  <div class="column">
-    <img src="./Images/Linux.png" alt="Linux" style="width: 40px;">
-  </div>
+<div style="display: flex;">
+  <img src="./Images/python.png" alt="Python" style="width: 40px;">
+  <img src="./Images/C++.png" alt="C++" style="width: 40px;">
+  <img src="./Images/Linux.png" alt="Linux" style="width: 40px;">
 </div>
+
 <h2>Proyectos</h2>
 <h3>Red de sensores meteorológicos</h3>
 <p align="Justify">
@@ -62,8 +36,7 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
 <p align="Justify">
   E
 </p>
-</html>
-</body>
+
 <!--
 **JesusC26/JesusC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
