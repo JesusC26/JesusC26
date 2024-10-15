@@ -11,13 +11,13 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
 <h3>Languages and tools</h3>
 <div class="row">
   <div class="column">
-    <img src="./Images/Python.png" alt="Python" style="width:10%">
+    <img src="./Images/python.png" alt="Python" style="width: 40px;">
   </div>
   <div class="column">
-    <img src="./Images/C++.png" alt="C++" style="width:10%">
+    <img src="./Images/C++.png" alt="C++" style="width: 40px;">
   </div>
   <div class="column">
-    <img src="./Images/Linux.png" alt="Linux" style="width:10%">
+    <img src="./Images/Linux.png" alt="Linux" style="width: 40px;">
   </div>
 </div>
 <h2>Proyectos</h2>
