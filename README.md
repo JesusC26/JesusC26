@@ -25,7 +25,7 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
   La contaminación ambiental en la zona metropolitana de Guadalajara ha repercutido en el aumento de enfermedades respiratorias en la población. Para la mitigación de este tipo de problemas, es indispensable realizar un monitoreo constante de concentraciones de partículas con un diámetro igual o menor a 2.5 μm. En este proyecto se desarrolló el diseño e implementación de 3 distintos dispositivos que permitieran medir ciertas condiciones meteorológicas, con el objetivo de conocer la calidad del aire en cierta área de una metrópolis.
 </p>
 <div style="text-align: center;">
-  <img src="./Images/First_project/Devices.png" alt="Devices" />
+  <img src="./Images/First_project/Devices.png" alt="Devices" style="width: 80px"/>
 </div>
 <p>
   Descripción de cada uno de los dispositivos.
