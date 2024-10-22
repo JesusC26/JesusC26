@@ -25,17 +25,17 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
   La contaminación ambiental en la zona metropolitana de Guadalajara ha repercutido en el aumento de enfermedades respiratorias en la población. Para la mitigación de este tipo de problemas, es indispensable realizar un monitoreo constante de concentraciones de partículas con un diámetro igual o menor a 2.5 μm. En este proyecto se desarrolló el diseño e implementación de 3 distintos dispositivos que permitieran medir ciertas condiciones meteorológicas, con el objetivo de conocer la calidad del aire en cierta área de una metrópolis.
 </p>
 <div style="text-align: center;">
-  <img src="./Images/First_project/Devices.png" alt="Devices" style="width: 80px"/>
+  <img src="./Images/First_project/Devices.png" alt="Devices"/>
 </div>
 <p>
   Descripción de cada uno de los dispositivos.
   <ul>
     <li>Dispositivo 1 (Home edition):</li>
       <p align="Justify">
-      Esta version se caracteriza como el dispositivo con menor complejidad de uso para el usuario. El modelo integra una PCB con toda la electronica necesaria para realizar mediciones ambientales tales como, presión atmosférica, humedad relativa, temperatura, altitud y consentración de particulas finas. Los datos que recolecta el sistema, son publicados directamente en Firebsase Realtime Database, que a su vez son transferidos a una interfaz gráfica para su visualización en cualquier parte del mundo.
+      Esta versión se caracteriza como el dispositivo con menor complejidad de uso para el usuario. El modelo integra una PCB con toda la electrónica necesaria para realizar mediciones ambientales tales como, presión atmosférica, humedad relativa, temperatura, altitud y concentración de partículas finas. Los datos que recolecta el sistema son publicados directamente en Firebsase Realtime Database, que a su vez son transferidos a una interfaz gráfica para su visualización en cualquier parte del mundo.
       </p>
       <div style="text-align: center;">
-        <img src="./Images/First_project/Home_edition.jpg" alt="Devices" />
+        <img src="./Images/First_project/Home_edition.jpg" alt="First device"  style="width: 80px"/>
       </div>
     <li>Dispositivo 2 (At Home +):</li>
     <li>Dispositivo 3 (AW - 1):</li>
