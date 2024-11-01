@@ -47,6 +47,12 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
         <img src="./Images/Second_project/PCB2.png" alt="PCB second device" style="width:200px; margin-right: 20px"/>
       </div>
     <li>Dispositivo 3 (AW - 1):</li>
+      <p align="Justify">
+      Finalmente, nuestro modelo más complejo de todos, el cual contempla las características mencionadas anteriormente, solo con diferenciación en el área de carga de la batería, ya que este modelo cuenta con la conexión de un pequeño panel solar que le da autonomía de energía al dispositivo. Pero, su mayor característica en este modelo es que dicho dispositivo tiene la capacidad para interconectarse con otro dispositivo, mediante un protocolo de comunicación de radiofrecuencia llamado LoRa. Estos dispositivos se comunican entre sí, para formar una malla y poder transmitir información recolectada por cada nodo hacia un Gateway, el cual se encarga de subir toda la información (de toda la malla) a la nube y pueda ser visualizada por cualquier persona en un Dashboard. El objetivo principal de esta característica es poder mapear la calidad de aire en un área extensa, como por ejemplo en una ciudad.
+      </p>
+      <div style="display: flex;">
+        <img src="./Images/Third_project/PCB.png" alt="Second device" style="width:280px; margin-right: 20px"/>
+      </div>
   </ul>
 </p>
 <h3>Robot móvil autónomo</h3>
