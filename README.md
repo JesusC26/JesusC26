@@ -32,13 +32,20 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
   <ul>
     <li>Dispositivo 1 (Home edition):</li>
       <p align="Justify">
-      Esta versión se caracteriza como el dispositivo con menor complejidad de uso para el usuario. El modelo integra una PCB con toda la electrónica necesaria para realizar mediciones ambientales tales como, presión atmosférica, humedad relativa, temperatura, altitud y concentración de partículas finas. Los datos que recolecta el sistema son publicados directamente en Firebsase Realtime Database, que a su vez son transferidos a una interfaz gráfica para su visualización en cualquier parte del mundo.
+      Esta versión se caracteriza como el dispositivo con menor complejidad de uso para el usuario. El modelo integro una PCB, la cual mantiene la integración dentro de la PCB el sensor BMP280 (Sensor que nos ayuda a medir presión atmosférica), además se implementó una memoria microSD (con el objetivo de guardar un back-up de los datos), se agregaron borneras para conectar los demás sensores utilizados (PMS5003 y DHT22, los cuales nos ayudan a medir partículas finas y temperatura respectivamente). Cabe mencionar que se utilizaron componentes SMD que nos ayudaron a reducir el tamaño de nuestra PCB. Los datos que recolecta el sistema son publicados directamente en Firebsase Realtime Database, que a su vez son transferidos a una interfaz gráfica para su visualización en cualquier parte del mundo.
       </p>
       <div style="display: flex;">
         <img src="./Images/First_project/Home_edition.jpg" alt="First device" style="width:200px; margin-right: 20px"/>
         <img src="./Images/First_project/PCB.png" alt="PCB first device" style="width:200px; margin-right: 20px"/>
       </div>
     <li>Dispositivo 2 (At Home +):</li>
+      <p align="Justify">
+      Nuestra segunda versión permite ser un dispositivo que pueda ser llevado a cualquier lugar, ya que este integra una batería recargable, y además una pantalla touch para que pueda ser más amigable con el usuario. Con respecto a la parte electrónica, se añadieron integrados distintos (DW01-A y 8205A, nos ayudan a realizar la carga de la batería) los cuáles se implementaron en una configuración de tipo TP4056, la cual nos permite cargar la batería de manera segura, de acuerdo con las distintas fases de carga para estas.
+      </p>
+      <div style="display: flex;">
+        <img src="./Images/Second_project/Device.jpg" alt="Second device" style="width:200px; margin-right: 20px"/>
+        <img src="./Images/Second_project/PCB2.png" alt="PCB second device" style="width:200px; margin-right: 20px"/>
+      </div>
     <li>Dispositivo 3 (AW - 1):</li>
   </ul>
 </p>
