@@ -35,8 +35,8 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
       Esta versión se caracteriza como el dispositivo con menor complejidad de uso para el usuario. El modelo integra una PCB con toda la electrónica necesaria para realizar mediciones ambientales tales como, presión atmosférica, humedad relativa, temperatura, altitud y concentración de partículas finas. Los datos que recolecta el sistema son publicados directamente en Firebsase Realtime Database, que a su vez son transferidos a una interfaz gráfica para su visualización en cualquier parte del mundo.
       </p>
       <div style="display: flex;">
-        <img src="./Images/First_project/Home_edition.jpg" alt="First device"  style="width: 200px, margin: 100px"/>
-        <img src="./Images/First_project/PCB.png" alt="PCB first device" style="width: 200px, margin: 100px"/>
+        <img src="./Images/First_project/Home_edition.jpg" alt="First device"  style="width: 200px, margin: 10px"/>
+        <img src="./Images/First_project/PCB.png" alt="PCB first device" style="width: 200px, margin: 10px"/>
       </div>
     <li>Dispositivo 2 (At Home +):</li>
     <li>Dispositivo 3 (AW - 1):</li>
