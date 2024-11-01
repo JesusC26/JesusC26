@@ -54,6 +54,7 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
         <img src="./Images/Third_project/PCB.png" alt="Second device" style="width:280px; margin-right: 20px"/>
       </div>
   </ul>
+  <a href="https://drive.google.com/drive/folders/1eiuvkdpiHxJToPeLuIFRoA54uQjY4gR3?usp=sharing"> Para mayor información del proyecto haga click aquí</a>
 </p>
 <h3>Robot móvil autónomo</h3>
 <p align="Justify">
