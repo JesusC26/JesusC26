@@ -56,7 +56,7 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
   </ul>
   <a href="https://drive.google.com/drive/folders/1eiuvkdpiHxJToPeLuIFRoA54uQjY4gR3?usp=sharing"> Para mayor información del proyecto haga click aquí</a>
 </p>
-<h3>Robot móvil autónomo</h3>
+<h3>Robot móvil autónomo, usando SLAM</h3>
 <p align="Justify">
   Description of the project!
 </p>
