@@ -56,9 +56,30 @@ Soy ingeniero en mecatrónica, gradudado por el Tecnológico de Monterrey, con u
   </ul>
   <a href="https://drive.google.com/drive/folders/1eiuvkdpiHxJToPeLuIFRoA54uQjY4gR3?usp=sharing"> Para mayor información del proyecto haga click aquí</a>
 </p>
-<h3>Robot móvil autónomo, usando SLAM</h3>
+<h3>Rover Autonomous Exploration & Mapping</h3>
 <p align="Justify">
-  Description of the project!
+Los robots autónomos son de gran relevancia para la industria hoy en día, debido a que estas están en constante búsqueda de nuevas maneras de aumentar la eficiencia operacional, incrementar la velocidad, garantizar la precisión y optimizar la seguridad y un robot de este tipo puede ayudar a mejorar todos estos aspectos. 
+ El problema a resolver en este proyecto fue la implementación de un sistema de navegación autónoma y reconstrucción del entorno, el sistema integra una camara y una computadora, los cuales fueron incorporados en un robot de tipo diferencial, por medio de un soporte de accionamiento Pan-tilt, el cual permite mover la cámara utilizada (modelo Euclid de Intel) hacia casi cualquier dirección del robot y así poder mapear el entorno y evitar que nuestro robot pueda tener alguna colisión con algún objeto que le impida navegar hacia un punto deseado. 
+</p>
+<p>
+El desarrollo del proyecto tuvo distintas etapas, las cuales fueron:
+  <ul>
+    <li>Estudio de del modelo cinematico del robot:</li>
+    <p>
+    Description
+    </p>
+    <div style="display: flex;">
+        <img src="./Images/Rover_Autonomous/Robot_Geometry.png" alt="Robot Geometry" style="width:200px; margin-right: 20px"/>
+    </div>    
+    <li>Diseño CAD del robot:</li>
+    <p>
+    Description
+    </p>
+    <li>Navegación usando SLAM y exploración:</li>
+    <p>
+    Description
+    </p>
+  </ul>
 </p>
 
 <!--
