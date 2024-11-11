@@ -77,7 +77,7 @@ El desarrollo del proyecto tuvo distintas etapas, las cuales fueron:
     El modelo CAD del robot diferencial utilizado para este proyecto, se puede observar en la siguiente figura, el cual consta de dos llantas actuadas (se encuentran en la parte trasera del robot) y dos llantas omnidireccionales, la cuales permiten al robot moverse a cualquier dirección. Además, se integró un mecanismo de pan-tilt, que permite sujetar la cámara utilizada y moverla a cualquier dirección.
     </p>
     <div style="display: flex;">
-        <img src="./Images/Rover_Autonomous/CAD_design.png" alt="CAD design" style="width:200px"/>
+        <img src="./Images/Rover_Autonomous/CAD_design.png" alt="CAD design" style="width:400px"/>
     </div>
     <li>Navegación usando SLAM y exploración:</li>
     <p>
