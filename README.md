@@ -91,6 +91,7 @@ El desarrollo del proyecto tuvo distintas etapas, las cuales fueron:
       <img src="./Images/Rover_Autonomous/Results.png" alt="Results" style="width:400px"/>
     </div>
   </ul>
+  <a href="https://drive.google.com/drive/folders/1_d6Y_us8aZrnQOZAlpY2hZB-vicpmhr2?usp=sharing"> Para mayor información del proyecto haga click aquí</a>
 </p>
 
 <!--
