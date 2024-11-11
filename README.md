@@ -67,19 +67,29 @@ El desarrollo del proyecto tuvo distintas etapas, las cuales fueron:
   <ul>
     <li>Estudio de del modelo cinematico del robot:</li>
     <p>
-    Description
+    El modelado cinemático de un robot es el estudio de movimiento, sin contemplar las fuerzas que lo generan. Para un robot diferencial, el principal propósito del modelo cinemático es representar la velocidad lineal y angular total del robot en función de las velocidades de las ruedas de accionamiento, tomando en cuenta la geometría del robot, tal como se muestra en la siguiente figura.
     </p>
     <div style="display: flex;">
         <img src="./Images/Rover_Autonomous/Robot_Geometry.png" alt="Robot Geometry" style="width:200px; margin-right: 20px"/>
     </div>    
     <li>Diseño CAD del robot:</li>
     <p>
-    Description
+    El modelo CAD del robot diferencial utilizado para este proyecto, se puede observar en la siguiente figura, el cual consta de dos llantas actuadas (se encuentran en la parte trasera del robot) y dos llantas omnidireccionales, la cuales permiten al robot moverse a cualquier dirección. Además, se integró un mecanismo de pan-tilt, que permite sujetar la cámara utilizada y moverla a cualquier dirección.
     </p>
+    <div style="display: flex;">
+        <img src="./Images/Rover_Autonomous/CAD_design.png" alt="CAD design" style="width:200px"/>
+    </div>
     <li>Navegación usando SLAM y exploración:</li>
     <p>
-    Description
+    La etapa más importante para un robot autónomo sin duda es la navegación de un entorno desconocido. En este apartado utilizamos el paquete de Gmapping de ROS, que en conjunto con todos los parámetros que entregan nuestros sensores, tales como la cámara (utilizada como LiDAR), encoder dentro del robot (conocer odometria del robot), logramos desarrollar un robot autónomo. 
     </p>
+    <div style="display: flex;">
+      <img src="./Images/Rover_Autonomous/Navigation_core.png" alt="Navigation core" style="width:200px"/>
+    </div>
+    <li>Resultados</li>
+    <div style="display: flex;">
+      <img src="./Images/Rover_Autonomous/Results.png" alt="Results" style="width:200px"/>
+    </div>
   </ul>
 </p>
 
