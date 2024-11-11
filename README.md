@@ -84,11 +84,11 @@ El desarrollo del proyecto tuvo distintas etapas, las cuales fueron:
     La etapa más importante para un robot autónomo sin duda es la navegación de un entorno desconocido. En este apartado utilizamos el paquete de Gmapping de ROS, que en conjunto con todos los parámetros que entregan nuestros sensores, tales como la cámara (utilizada como LiDAR), encoder dentro del robot (conocer odometria del robot), logramos desarrollar un robot autónomo. 
     </p>
     <div style="display: flex;">
-      <img src="./Images/Rover_Autonomous/Navigation_core.png" alt="Navigation core" style="width:200px"/>
+      <img src="./Images/Rover_Autonomous/Navigation_core.png" alt="Navigation core" style="width:400px"/>
     </div>
     <li>Resultados</li>
     <div style="display: flex;">
-      <img src="./Images/Rover_Autonomous/Results.png" alt="Results" style="width:200px"/>
+      <img src="./Images/Rover_Autonomous/Results.png" alt="Results" style="width:400px"/>
     </div>
   </ul>
 </p>
