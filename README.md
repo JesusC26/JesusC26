@@ -22,7 +22,9 @@ Soy ingeniero en mecatrónica, graduado por el Tecnológico de Monterrey, con un
 <!-- Certifications-->
 <h3>Certificados</h3>
 <div style="display: flex;">
-  <iframe src="./Certifications/IBM_DB0101EN_Certificate.pdf" width="600" height="700"> </iframe>
+  <object data="./Certifications/IBM DB0101EN Certificate.pdf" type="application/pdf" width="600" height="700">
+    <p>Your browser does not support PDFs. <a href="./Certifications/IBM DB0101EN Certificate.pdf">Download the PDF</a>.</p>
+  </object>
 </div>
 
 <h2>Proyectos</h2>
