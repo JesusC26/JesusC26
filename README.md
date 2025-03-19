@@ -22,9 +22,9 @@ Soy ingeniero en mecatrónica, graduado por el Tecnológico de Monterrey, con un
 <!-- Certifications-->
 <h3>Certificados</h3>
 <div style="display: flex;">
-  <object data="./Certifications/IBM DB0101EN Certificate.pdf" type="application/pdf" width="600" height="700">
-    <p>Your browser does not support PDFs. <a href="./Certifications/IBM DB0101EN Certificate.pdf">Download the PDF</a>.</p>
-  </object>
+  <a href="https://courses.cognitiveclass.ai/certificates/1b0d9ac4782c49a59c7f5cf513cd73fa#">
+   <img src="./Certifications/Python-for-DataScience.png" alt="Python for data Science" style="width: 150px;">
+  </a>
 </div>
 
 <h2>Proyectos</h2>
