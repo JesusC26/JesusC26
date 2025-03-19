@@ -31,6 +31,9 @@ Soy ingeniero en mecatrónica, graduado por el Tecnológico de Monterrey, con un
     <a href="https://courses.cognitiveclass.ai/certificates/b6d4b941b5694b6d952da50b3d3506c9">
     <img src="./Certifications/SQL-DataBase.png" alt="SQL-DataScience" style="width: 350px;">
   </a>
+  <a href="./Certifications/Certificate Matlab.pdf">
+    <img src="./Certifications/Matlab.png" alt="Matlab certificate" style="width: 350px;">
+  </a>
 </div>
 
 <h2>Proyectos</h2>
