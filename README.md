@@ -19,6 +19,12 @@ Soy ingeniero en mecatrónica, graduado por el Tecnológico de Monterrey, con un
   <img src="./Images/icons/Proteus.png" alt="Proteus" style="width: 40px;">
 </div>
 
+<!-- Certifications-->
+<h3>Certificados</h3>
+<div style="display: flex;">
+  <iframe src="./Certifications/IBM DB0101EN Certificate.pdf" width="600" height="700"> </iframe>
+</div>
+
 <h2>Proyectos</h2>
 <h3>Red de sensores meteorológicos</h3>
 <p align="Justify">
