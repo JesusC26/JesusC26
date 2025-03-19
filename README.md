@@ -22,7 +22,7 @@ Soy ingeniero en mecatrónica, graduado por el Tecnológico de Monterrey, con un
 <!-- Certifications-->
 <h3>Certificados</h3>
 <div style="display: flex;">
-  <iframe src="./Certifications/IBM DB0101EN Certificate.pdf" width="600" height="700"> </iframe>
+  <iframe src="./Certifications/IBM_DB0101EN_Certificate.pdf" width="600" height="700"> </iframe>
 </div>
 
 <h2>Proyectos</h2>
