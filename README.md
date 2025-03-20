@@ -19,6 +19,23 @@ Soy ingeniero en mecatrónica, graduado por el Tecnológico de Monterrey, con un
   <img src="./Images/icons/Proteus.png" alt="Proteus" style="width: 40px;">
 </div>
 
+<!-- Certifications-->
+<h3>Certificados</h3>
+<div style="display: flex;">
+  <a href="https://courses.cognitiveclass.ai/certificates/1b0d9ac4782c49a59c7f5cf513cd73fa#">
+   <img src="./Certifications/Python-for-DataScience.png" alt="Python for data Science" style="width: 350px;">
+  </a>
+  <a href="https://semiconductores.udg.mx/mod/customcert/verify_certificate.php?code=xSRByGIx22&qrcode=1">
+    <img src="./Certifications/English for the semiconductor industry.png" alt="English for the semiconductor industry" style="width: 350px;">
+  </a>
+    <a href="https://courses.cognitiveclass.ai/certificates/b6d4b941b5694b6d952da50b3d3506c9">
+    <img src="./Certifications/SQL-DataBase.png" alt="SQL-DataScience" style="width: 350px;">
+  </a>
+  <a href="./Certifications/Certificate Matlab.pdf">
+    <img src="./Certifications/Matlab.png" alt="Matlab certificate" style="width: 350px;">
+  </a>
+</div>
+
 <h2>Proyectos</h2>
 <h3>Red de sensores meteorológicos</h3>
 <p align="Justify">
