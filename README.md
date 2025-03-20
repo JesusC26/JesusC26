@@ -37,6 +37,7 @@ Soy ingeniero en mecatrónica, graduado por el Tecnológico de Monterrey, con un
 </div>
 
 <h2>Proyectos</h2>
+
 <h3>Red de sensores meteorológicos</h3>
 <p align="Justify">
   La contaminación ambiental en la zona metropolitana de Guadalajara ha repercutido en el aumento de enfermedades respiratorias en la población. Para la mitigación de este tipo de problemas, es indispensable realizar un monitoreo constante de concentraciones de partículas con un diámetro igual o menor a 2.5 μm. En este proyecto se desarrolló el diseño e implementación de 3 distintos dispositivos que permitieran medir ciertas condiciones meteorológicas, con el objetivo de conocer la calidad del aire en cierta área de una metrópolis.
@@ -73,6 +74,7 @@ Soy ingeniero en mecatrónica, graduado por el Tecnológico de Monterrey, con un
   </ul>
   <a href="https://drive.google.com/drive/folders/1eiuvkdpiHxJToPeLuIFRoA54uQjY4gR3?usp=sharing"> Para mayor información del proyecto haga click aquí</a>
 </p>
+
 <h3>Rover Autonomous Exploration & Mapping</h3>
 <p align="Justify">
 Los robots autónomos son de gran relevancia para la industria hoy en día, debido a que estas están en constante búsqueda de nuevas maneras de aumentar la eficiencia operacional, incrementar la velocidad, garantizar la precisión y optimizar la seguridad y un robot de este tipo puede ayudar a mejorar todos estos aspectos. </p>
@@ -110,6 +112,26 @@ El desarrollo del proyecto tuvo distintas etapas, las cuales fueron:
   </ul>
   <a href="https://drive.google.com/drive/folders/1_d6Y_us8aZrnQOZAlpY2hZB-vicpmhr2?usp=sharing"> Para mayor información del proyecto haga click aquí</a>
 </p>
+
+<h3> Robot Delta </h3>
+<p align="Justify">
+El uso de robots
+manipuladores para realizar trabajos en la industria manufacturera es indispensable, ya que estos dispositivos son capaces de realizar tareas de Pick and place de forma eficiente y a gran velocidad, con lo cuál se puede lograr aumentar el volumen de producción.
+Este proyecto se logró desarrollar el diseño y fabricación de un robot industrial tipo Delta de 2 DoF, con el objetivo de tareas de Pick and Place de forma eficiente, con esto permitir mejorar los procesos industriales. Se implementó un sistema de visión Cognex para la detección de objetos en conveyors.
+
+El proceso comenzó con el diseño CAD, iterando en diferentes configuraciones hasta encontrar la más eficiente. A continuacion se presenta algunas fotografías del diseño del robot.
+</p>
+<div style="display: flex;">
+  <img src="./Images/Delta Robot/CAD_Robotpng" alt="CAD robot design" style="width:600px"/>
+</div>
+
+<p align="Justify">
+Posteriormente, se realizó un análisis cinemático del robot en MATLAB para validar su desempeño en el entorno de trabajo y evaluar si el robot puede alcanzar las posiciones deseadas.
+Para la manufactura, se utilizaron distintos tipos de máquinas CNC y manuales, incluyendo fresadora, torno y otros equipos. El sistema de control se implementó con un PLC Siemens S7-1200, programado con las funciones requeridas para la automatización del proceso.
+
+Finalmente, se entregó un prototipo funcional, capaz de transportar objetos entre bandas transportadoras de manera eficiente.
+</p>
+
 
 <!--
 **JesusC26/JesusC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
