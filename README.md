@@ -143,7 +143,7 @@ Dicha solución, al no automatizar totalmente el funcionamiento de la silla, per
 
 El proceso de diseño del dispositivo consistio en iterar el diseño, con el objetivo de buscar el optimo diseño, que cumpla con las caracteristicas necesarias para usuario final. A continuación se prsentan las diferentes iteraciones que se realizaron hasta llegar al diseño final.
 <div style="display: flex;">
-  <img src="./Images/Wheelchair/Wheelchair.png" alt="Wheelchair" style="width:300px;"/>
+  <img src="./Images/Wheelchair/Wheelchair.png" alt="Wheelchair" style="width:500px;"/>
 </div>
   <a href="https://drive.google.com/file/d/1hlEaIRpm2uV31k9RQIX3X_lmn-xR6gZA/view?usp=drive_link"> Para mayor información del proyecto haga click aquí</a>
 </p>
