@@ -122,16 +122,19 @@ Este proyecto se logró desarrollar el diseño y fabricación de un robot indust
 El proceso comenzó con el diseño CAD, iterando en diferentes configuraciones hasta encontrar la más eficiente. A continuacion se presenta algunas fotografías del diseño del robot.
 </p>
 <div style="display: flex;">
-  <img src="./Images/Delta Robot/CAD_Robotpng" alt="CAD robot design" style="width:600px"/>
+  <img src="./Images/Delta Robot/CAD_Robotpng" alt="CAD robot design" style="width:450px"/>
 </div>
 
 <p align="Justify">
 Posteriormente, se realizó un análisis cinemático del robot en MATLAB para validar su desempeño en el entorno de trabajo y evaluar si el robot puede alcanzar las posiciones deseadas.
 Para la manufactura, se utilizaron distintos tipos de máquinas CNC y manuales, incluyendo fresadora, torno y otros equipos. El sistema de control se implementó con un PLC Siemens S7-1200, programado con las funciones requeridas para la automatización del proceso.
 
-Finalmente, se entregó un prototipo funcional, capaz de transportar objetos entre bandas transportadoras de manera eficiente.
-</p>
+Finalmente, se entregó un prototipo funcional, capaz de transportar objetos entre bandas transportadoras de manera eficiente. A continuación se encuntra una liga para ver el robot funcionando.
 
+<a href="https://drive.google.com/file/d/1b-XJ-S_ABzSP_2Q8W4pVz795EWEn-S4u/view?usp=sharing"> Video del robot funcionado</a>
+
+<a href="https://drive.google.com/file/d/1cT1gHbUDvmF-VW1kc-T5EGgHPCRO4ZHt/view?usp=sharing"> Para mayor información del proyecto haga click aquí</a>
+</p>
 
 <!--
 **JesusC26/JesusC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
