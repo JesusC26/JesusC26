@@ -115,8 +115,7 @@ El desarrollo del proyecto tuvo distintas etapas, las cuales fueron:
 
 <h3> Robot Delta </h3>
 <p align="Justify">
-El uso de robots
-manipuladores para realizar trabajos en la industria manufacturera es indispensable, ya que estos dispositivos son capaces de realizar tareas de Pick and place de forma eficiente y a gran velocidad, con lo cuál se puede lograr aumentar el volumen de producción.
+El uso de robots manipuladores para realizar trabajos en la industria manufacturera es indispensable, ya que estos dispositivos son capaces de realizar tareas de Pick and place de forma eficiente y a gran velocidad, con lo cuál se puede lograr aumentar el volumen de producción.
 Este proyecto se logró desarrollar el diseño y fabricación de un robot industrial tipo Delta de 2 DoF, con el objetivo de tareas de Pick and Place de forma eficiente, con esto permitir mejorar los procesos industriales. Se implementó un sistema de visión Cognex para la detección de objetos en conveyors.
 
 El proceso comenzó con el diseño CAD, iterando en diferentes configuraciones hasta encontrar la más eficiente. A continuacion se presenta algunas fotografías del diseño del robot.
@@ -135,6 +134,20 @@ Finalmente, se entregó un prototipo funcional, capaz de transportar objetos ent
 
 <a href="https://drive.google.com/file/d/1cT1gHbUDvmF-VW1kc-T5EGgHPCRO4ZHt/view?usp=sharing"> Para mayor información del proyecto haga click aquí</a>
 </p>
+
+
+<h3> Assistive device for a wheelchair </h3>
+<p align="Justify">
+La discapacidad por limitaciones para caminar es la segunda con más incidencia en México, la relevancia que se le atribuye al problema se potencia de manera importante. Casi el 40% del total de personas con discapacidad, que es equivalente a más de 8 millones de mexicanos, tiene esta limitación. Por estas razones, se buscó el desarrollo de un producto mecatrónico capaz de asistir a las personas con incapacidad o deficiencias para caminar y moverse libremente. Se plantea,particularmente, que se trate de una silla de ruedas con una quinta rueda motorizada, la cual facilitará traslados ensuperficies irregulares.
+Dicha solución, al no automatizar totalmente el funcionamiento de la silla, permite asistir a las personas sin obstaculizar la actividad física que realizan día con día.
+
+El proceso de diseño del dispositivo consistio en iterar el diseño, con el objetivo de buscar el optimo diseño, que cumpla con las caracteristicas necesarias para usuario final. A continuación se prsentan las diferentes iteraciones que se realizaron hasta llegar al diseño final.
+<div style="display: flex;">
+  <img src="./Images/Wheelchair/Wheelchair.png" alt="Wheelchair" style="width:300px;"/>
+</div>
+  <a href="https://drive.google.com/file/d/1hlEaIRpm2uV31k9RQIX3X_lmn-xR6gZA/view?usp=drive_link"> Para mayor información del proyecto haga click aquí</a>
+</p>
+
 
 <!--
 **JesusC26/JesusC26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
